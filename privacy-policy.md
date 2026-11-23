@@ -4,7 +4,7 @@
 
 Contact: mia@idx.style
 
-Effective Date: April 9, 2026
+Effective Date: November 23, 2026
 
 ---
 
@@ -214,4 +214,4 @@ To align with Apple's App Privacy requirements, Ecliptic summarizes data categor
 
 ---
 
-*This Privacy Policy was last updated on April 9, 2026.*
+*This Privacy Policy was last updated on November 23, 2026.*
