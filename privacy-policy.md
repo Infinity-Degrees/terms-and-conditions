@@ -18,6 +18,8 @@ This Privacy Policy explains how Infinite Degrees, LLC ("Ecliptic," "we," "us") 
 
 **Account & Profile:** Name or handle, email address, password, profile photo, bio, sport preferences, skill level.
 
+**Contacts (optional):** If you choose to connect your contacts, the app sends us the phone numbers in your address book. We do not receive the names, emails or photos saved with them. We keep those phone numbers, linked to your account, to show you riders you already know and to tell you when someone from your contacts joins. Other riders who have your verified phone number in their own contacts can find you the same way; you can turn this off in Settings ("Riders with my number can find me"). When you invite a contact, the message is sent by you from your own messaging app.
+
 **User Content:** Trick videos, photos, posts, comments, messages, event listings, and other content you create or share.
 
 **Bisk Data:** Bisk balance, transaction history (purchases, transfers, withdrawals, earnings), and related records.
@@ -106,6 +108,7 @@ We retain personal information for as long as needed to provide the Services, co
 
 - **Active accounts:** Data retained while your account is active;
 - **Bisk records:** Transaction records retained for a minimum of 7 years for financial compliance;
+- **Contacts:** Phone numbers from your address book are kept while your contacts stay connected. Choosing Disconnect in Settings, or deleting your account, deletes them;
 - **Deleted accounts:** Personal data removed from active systems upon deletion, except where retention is required for legal, safety, fraud prevention, or financial record-keeping purposes;
 - **Inactive accounts:** Bisk expires after 12 months of complete inactivity per our Terms of Service.
 
@@ -196,6 +199,7 @@ To align with Apple's App Privacy requirements, Ecliptic summarizes data categor
 **Collected Categories (depending on features used):**
 
 - **Contact Info** (email, handle) - Account creation, support
+- **Contacts** (phone numbers from your address book, only if you connect contacts) - Finding riders you know, telling you when a contact joins
 - **Identifiers** (device/app identifiers) - Security, fraud prevention, analytics
 - **User Content** (posts, messages, photos, trick videos) - Social features, scoring, moderation
 - **Location** (precise/approximate, if permitted) - Event discovery, local content
